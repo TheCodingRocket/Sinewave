@@ -1,4 +1,4 @@
-<h3 align="center"> The Inspiration </h3>
+<h1 align="center"> The Inspiration </h1>
 
 <h2 align="center"> I've always been a big fan of spinning things. Ever since I was a little kid, I've always been fascinated by yo - yo's. How they look when they spin, the science behind how they spin, and the nature itself is mesmerizing. And I wanted to share my interests to all of you. </h2>
 
