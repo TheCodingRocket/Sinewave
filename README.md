@@ -4,4 +4,4 @@
 
 <h3 align="center"> And in order to do that, I've made something similar to a yo - yo. Contrary to yo - yo's, this yo - yo (Sinewave Structures) can change colour and shapes. (Even though some "special" yo - yo's can change colours too). </h3>
   
-<h2 align"center"> Oh, and you don't have to buy one. You can simply pay with a star 😉 </h2>
+<h2 align"center"> Oh, and you don't have to buy one. You can simply pay with a star </h2>
